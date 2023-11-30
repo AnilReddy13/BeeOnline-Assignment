@@ -1,0 +1,232 @@
+
+.login-button{
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    border-color: black;
+    border-radius: 4px;
+    background-color: #ffffff;
+    margin-left: 50px;
+}
+.bg-container{
+    color: #ffffff;
+    flex-wrap: wrap;
+}
+.content{
+    text-align: start;
+    height: auto;
+    flex-wrap: wrap;
+}
+.paragraph{
+    padding-top: 30px;
+    font-family: roboto;
+    color: black;
+    padding-left: 50px;
+}
+.sub-heading{
+    font-size: 35px;
+    font-family: roboto;
+    color: black;
+    padding-left: 50px;
+}
+.button-sec{
+    text-align: center;
+    padding: 10px;
+    padding-top: 5px;
+}
+.reg-button{
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sec-button{
+    background-color: #ffffff;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.girl-image{
+    height: 400px ;
+    width: 500px;
+    align-self: center;
+    padding-left: 100px;
+}
+.img-choosesec{
+   flex-wrap: wrap;
+   
+}
+.bridge-img{
+    height: 500px;
+    width: 500px;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.heading{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+.span{
+    font-size: 30px;
+    color: yellow;
+    font-weight: bold;
+    padding-right: 8px;
+}
+.paragrapha{
+    font-family: roboto;
+    color: black;
+    margin-left: 50px;
+}
+.img-sec{
+    padding-top: 30px;
+    padding-left: 50px;
+    
+    align-self: center;
+    width: auto;
+}
+.clg-logo{
+    height: 110px;
+    width: 180px;
+    padding: 15px;
+}
+.card{
+    height: auto;
+    border-color: blue;
+    border-width: 6px;
+    background-color: azure;
+    border-radius: 5px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.paragraph1{
+    padding-top: 30px;
+    font-family: roboto;
+    color: black;
+    padding-left: 50px;
+    font-size: 30px;
+}
+.card1{
+    border-top: 15px;
+    border-bottom: 15px;
+    width: 200px;
+    background-color: #ffffff;
+    text-align: center;
+    border-color: black;
+    border-width: 3px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.numeric1{
+    font-size: 35px;
+    color: yellow;
+}
+.cparagraph{
+    font-size: 20px;
+    text-align: center;
+    padding: 6px;
+    color: black;
+}
+.card2{
+    border-top: 15px;
+    border-bottom: 15px;
+    width: 200px;
+    background-color:yellow;
+    text-align: center;
+    border-color: white;
+    border-width: 3px;
+    color: #ffffff;
+}
+.yellow-card{
+    background-color: yellow;
+    height: auto;
+    width: 100%;
+    margin-top:5px ;
+    text-align: center;
+}
+.yel-heading{
+    color: black;
+    font-family: roboto;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.yel-button{
+    background-color: #ffffff;
+    width: auto;
+     height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-style: none;
+}
+.boy-img{
+    height: 400px;
+    width: 450px;
+    margin-left: 50px;
+}
+.speak-button{
+    margin-top: 10px;
+    border-style: none;
+    background-color: yellow;
+    color: black;
+    font-size: 22px;
+    margin-left: 50px;
+    margin-bottom: 6px;
+}
+.boyheading{
+    font-size: 28px;
+    color: black;
+    font-family: roboto;
+    margin-left:50px ;
+    font-weight: bold;
+}
+.boyparagraph{
+    font-size: 20px;
+    color: black;
+    font-family: roboto;
+    margin-left: 50px;
+}
+.review-sec{
+    background-color: azure;
+    height: auto;
+}
+.review-card1{
+    background-color: #ffffff;
+    height: auto;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+.rev-heading{
+    color: yellow;
+    font-size: 45px;
+    font-weight: bold;
+}
+.rev-paragraph{
+   color: black;
+   font-size: 18px; 
+}
+.name-heading{
+    color: black;
+    font-size: 28px;
+}
+.native{
+    color: black;
+    font-size: 20px;  
+}
+.footer-sec{
+    background-color: black;
+    text-align: center;
+    height: 60px;
+}
+.footer-heading{
+   color: white;
+   font-size: 25px;
+   font-weight: bold;
+   margin-top: 25px;
+}
